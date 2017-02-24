@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C26BA2FB-66C7-4150-B113-14DDC98B676F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Amdox.DataModel</RootNamespace>
+    <AssemblyName>Amdox.DataModel</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DotNet.Highcharts, Version=4.0.0.0, Culture=neutral, PublicKeyToken=88854f873df851bf, processorArchitecture=MSIL">
+      <HintPath>..\packages\DotNet.Highcharts.4.0\lib\DotNet.Highcharts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Ninject">
+      <HintPath>..\packages\Ninject.3.2.2.0\lib\net45-full\Ninject.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="OptionStats.cs" />
+    <Compile Include="PartnerVoteObject.cs" />
+    <Compile Include="PersonnelObject.cs" />
+    <Compile Include="Poll_Documents.cs" />
+    <Compile Include="PublishPollObject.cs" />
+    <Compile Include="ViewModel\AssignProxyVM.cs" />
+    <Compile Include="ViewModel\ChartCollectionVM.cs" />
+    <Compile Include="ViewModel\ExportPersonnelDetailsVM.cs" />
+    <Compile Include="ViewModel\ExportVoteOutcomeVM.cs" />
+    <Compile Include="ViewModel\LoginVM.cs" />
+    <Compile Include="ViewModel\MyProxyVM.cs" />
+    <Compile Include="ViewModel\NewUserVM.cs" />
+    <Compile Include="ViewModel\TrackVoteDetailsVM.cs" />
+    <Compile Include="ViewModel\TrackVoteStatisticsVM.cs" />
+    <Compile Include="ViewModel\DocumentVM.cs" />
+    <Compile Include="ViewModel\EditVoteSetupVM.cs" />
+    <Compile Include="ViewModel\EditUserVM.cs" />
+    <Compile Include="ViewModel\EmailNotificationsVM.cs" />
+    <Compile Include="ViewModel\HomeIndexVM.cs" />
+    <Compile Include="ViewModel\NavigationVM.cs" />
+    <Compile Include="ViewModel\PartnervoteVM.cs" />
+    <Compile Include="ViewModel\PersonnelForProxyVM.cs" />
+    <Compile Include="ViewModel\PollSetupVM.cs" />
+    <Compile Include="ViewModel\PublishPollVM.cs" />
+    <Compile Include="ViewModel\QuestionStatisticsVM.cs" />
+    <Compile Include="ViewModel\QuestionVM.cs" />
+    <Compile Include="ViewModel\ResolutionStatisticsVM.cs" />
+    <Compile Include="ViewModel\TrackVotingVM.cs" />
+    <Compile Include="ViewModel\ViewVoteSetupVM.cs" />
+    <Compile Include="ViewModel\VoteConfidentialInfoVM.cs" />
+    <Compile Include="ViewModel\VoteProxyListVM.cs" />
+    <Compile Include="ViewModel\VoteResultChartVM.cs" />
+    <Compile Include="ViewModel\VoteResultsDataVM.cs" />
+    <Compile Include="ViewModel\VoteResultsVM.cs" />
+    <Compile Include="ViewModel\VoterVM.cs" />
+    <Compile Include="ViewModel\VotingPersonnelVM.cs" />
+    <Compile Include="ViewModel\VotingVM.cs" />
+    <Compile Include="VoteContext.cs" />
+    <Compile Include="Partner_Types.cs" />
+    <Compile Include="Poll_Maintenance.cs" />
+    <Compile Include="Poll_Options.cs" />
+    <Compile Include="Poll_ProxyUser.cs" />
+    <Compile Include="Poll_Questions.cs" />
+    <Compile Include="Poll_Question_Options.cs" />
+    <Compile Include="Poll_Results.cs" />
+    <Compile Include="Poll_Statistics.cs" />
+    <Compile Include="Poll_Status.cs" />
+    <Compile Include="Poll_Transactions.cs" />
+    <Compile Include="Poll_Users.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User.cs" />
+    <Compile Include="UserDetail.cs" />
+    <Compile Include="User_Types.cs" />
+    <Compile Include="Voting_types.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Amdox.IDataModel\Amdox.IDataModel.csproj">
+      <Project>{47dfc2cf-6871-44e5-9b45-4287809ab9eb}</Project>
+      <Name>Amdox.IDataModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Scripts\Highcharts-4.0.1\js\adapters\standalone-framework.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\adapters\standalone-framework.src.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\highcharts-3d.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\highcharts-3d.src.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\highcharts-all.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\highcharts-more.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\highcharts-more.src.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\highcharts.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\highcharts.src.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\modules\canvas-tools.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\modules\canvas-tools.src.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\modules\data.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\modules\data.src.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\modules\drilldown.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\modules\drilldown.src.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\modules\exporting.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\modules\exporting.src.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\modules\funnel.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\modules\funnel.src.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\modules\heatmap.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\modules\heatmap.src.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\modules\no-data-to-display.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\modules\no-data-to-display.src.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\modules\solid-gauge.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\modules\solid-gauge.src.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\themes\dark-blue.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\themes\dark-green.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\themes\dark-unica.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\themes\gray.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\themes\grid-light.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\themes\grid.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\themes\sand-signika.js" />
+    <Content Include="Scripts\Highcharts-4.0.1\js\themes\skies.js" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

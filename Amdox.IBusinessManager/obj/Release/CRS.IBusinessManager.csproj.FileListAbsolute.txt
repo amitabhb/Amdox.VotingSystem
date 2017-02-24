@@ -1,0 +1,14 @@
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\bin\Release\CRS.IBusinessManager.dll
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\bin\Release\CRS.IBusinessManager.pdb
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\bin\Release\CRS.DataModel.dll
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\bin\Release\CRS.IDataModel.dll
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\bin\Release\Ninject.dll
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\bin\Release\EntityFramework.dll
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\bin\Release\CRS.DataModel.pdb
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\bin\Release\CRS.IDataModel.pdb
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\bin\Release\Ninject.xml
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\bin\Release\EntityFramework.xml
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\obj\Release\CRS.IBusinessManager.csprojResolveAssemblyReference.cache
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\obj\Release\CRS.IBusinessManager.dll
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\obj\Release\CRS.IBusinessManager.pdb
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\bin\Release\DotNet.Highcharts.dll

@@ -1,0 +1,2024 @@
+<stylecopresultscache>
+  <version>12</version>
+  <project key="440297989">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="AccountManager.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/06/15 00:32:13.871</styleCop>
+      <settingsFile>2016/06/15 00:32:13.847</settingsFile>
+      <sourceFile>2017/02/24 00:45:48.012</sourceFile>
+      <parser>2016/06/15 00:32:13.871</parser>
+      <StyleCop.CSharp.DocumentationRules>2016/06/15 00:32:13.871</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>1133617727</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2016/06/15 00:32:13.871</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2016/06/15 00:32:13.871</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2016/06/15 00:32:13.871</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ChartManager.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/06/15 00:32:13.871</styleCop>
+      <settingsFile>2016/06/15 00:32:13.847</settingsFile>
+      <sourceFile>2017/02/23 20:45:28.058</sourceFile>
+      <parser>2016/06/15 00:32:13.871</parser>
+      <StyleCop.CSharp.DocumentationRules>2016/06/15 00:32:13.871</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>1133617727</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2016/06/15 00:32:13.871</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2016/06/15 00:32:13.871</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2016/06/15 00:32:13.871</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ExportDataManager.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/06/15 00:32:13.871</styleCop>
+      <settingsFile>2016/06/15 00:32:13.847</settingsFile>
+      <sourceFile>2017/02/23 21:17:38.202</sourceFile>
+      <parser>2016/06/15 00:32:13.871</parser>
+      <StyleCop.CSharp.DocumentationRules>2016/06/15 00:32:13.871</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>1133617727</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2016/06/15 00:32:13.871</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2016/06/15 00:32:13.871</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2016/06/15 00:32:13.871</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="HomeIndexManager.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/06/15 00:32:13.871</styleCop>
+      <settingsFile>2016/06/15 00:32:13.847</settingsFile>
+      <sourceFile>2017/02/23 21:24:22.651</sourceFile>
+      <parser>2016/06/15 00:32:13.871</parser>
+      <StyleCop.CSharp.DocumentationRules>2016/06/15 00:32:13.871</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>1133617727</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2016/06/15 00:32:13.871</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2016/06/15 00:32:13.871</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2016/06/15 00:32:13.871</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="NavigationManager.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/06/15 00:32:13.871</styleCop>
+      <settingsFile>2016/06/15 00:32:13.847</settingsFile>
+      <sourceFile>2017/02/23 21:29:40.914</sourceFile>
+      <parser>2016/06/15 00:32:13.871</parser>
+      <StyleCop.CSharp.DocumentationRules>2016/06/15 00:32:13.871</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>1133617727</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2016/06/15 00:32:13.871</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2016/06/15 00:32:13.871</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2016/06/15 00:32:13.871</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/06/15 00:32:13.871</styleCop>
+      <settingsFile>2016/06/15 00:32:13.847</settingsFile>
+      <sourceFile>2016/11/05 12:11:02.871</sourceFile>
+      <parser>2016/06/15 00:32:13.871</parser>
+      <StyleCop.CSharp.DocumentationRules>2016/06/15 00:32:13.871</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>1133617727</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2016/06/15 00:32:13.871</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2016/06/15 00:32:13.871</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2016/06/15 00:32:13.871</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileMustHaveHeader" ruleCheckId="SA1633">
+        <context>The file has no header, the header Xml is invalid, or the header is not located at the top of the file.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="UserManager.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/06/15 00:32:13.871</styleCop>
+      <settingsFile>2016/06/15 00:32:13.847</settingsFile>
+      <sourceFile>2017/02/24 01:07:15.810</sourceFile>
+      <parser>2016/06/15 00:32:13.871</parser>
+      <StyleCop.CSharp.DocumentationRules>2016/06/15 00:32:13.871</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>1133617727</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2016/06/15 00:32:13.871</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2016/06/15 00:32:13.871</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2016/06/15 00:32:13.871</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBePlacedWithinNamespace" ruleCheckId="SA1200">
+        <context>All using directives must be placed inside of the namespace.</context>
+        <line>7</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBePlacedWithinNamespace" ruleCheckId="SA1200">
+        <context>All using directives must be placed inside of the namespace.</context>
+        <line>8</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBePlacedWithinNamespace" ruleCheckId="SA1200">
+        <context>All using directives must be placed inside of the namespace.</context>
+        <line>9</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBePlacedWithinNamespace" ruleCheckId="SA1200">
+        <context>All using directives must be placed inside of the namespace.</context>
+        <line>10</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBePlacedWithinNamespace" ruleCheckId="SA1200">
+        <context>All using directives must be placed inside of the namespace.</context>
+        <line>11</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBePlacedWithinNamespace" ruleCheckId="SA1200">
+        <context>All using directives must be placed inside of the namespace.</context>
+        <line>12</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBePlacedWithinNamespace" ruleCheckId="SA1200">
+        <context>All using directives must be placed inside of the namespace.</context>
+        <line>14</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBePlacedWithinNamespace" ruleCheckId="SA1200">
+        <context>All using directives must be placed inside of the namespace.</context>
+        <line>15</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBePlacedWithinNamespace" ruleCheckId="SA1200">
+        <context>All using directives must be placed inside of the namespace.</context>
+        <line>16</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBePlacedWithinNamespace" ruleCheckId="SA1200">
+        <context>All using directives must be placed inside of the namespace.</context>
+        <line>17</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBePlacedWithinNamespace" ruleCheckId="SA1200">
+        <context>All using directives must be placed inside of the namespace.</context>
+        <line>18</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBePlacedWithinNamespace" ruleCheckId="SA1200">
+        <context>All using directives must be placed inside of the namespace.</context>
+        <line>19</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementsMustBeDocumented" ruleCheckId="SA1600">
+        <context>The class must have a documentation header.</context>
+        <line>23</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CodeMustNotContainMultipleBlankLinesInARow" ruleCheckId="SA1507">
+        <context>The code must not contain multiple blank lines in a row.</context>
+        <line>36</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotBeginWithUnderscore" ruleCheckId="SA1309">
+        <context>Field names must not start with an underscore.</context>
+        <line>28</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private fields must be placed after all public fields.</context>
+        <line>28</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="InstanceReadonlyElementsMustAppearBeforeInstanceNonReadonlyElements" ruleCheckId="SA1215">
+        <context>All non-static readonly private fields must be placed before all non-static non-readonly private fields.</context>
+        <line>46</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
+        <context>Fields must be declared with private access. Use properties to expose fields.</context>
+        <line>34</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="AccessibleFieldsMustBeginWithUpperCaseLetter" ruleCheckId="SA1307">
+        <context>Public and internal fields must start with an upper-case letter: dataContext.</context>
+        <line>34</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementParameterDocumentationMustMatchElementParameters" ruleCheckId="SA1612">
+        <context>The param tags in the documentation header must match the element's parameter list.</context>
+        <line>54</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementParameterDocumentationMustHaveText" ruleCheckId="SA1614">
+        <context>The documentation text within the param tag for the '&lt;param name="assignProxyVM" /&gt;' parameter must not be empty.</context>
+        <line>54</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementParameterDocumentationMustHaveText" ruleCheckId="SA1614">
+        <context>The documentation text within the param tag for the '&lt;param name="_kernel" /&gt;' parameter must not be empty.</context>
+        <line>54</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="OpeningCurlyBracketsMustNotBeFollowedByBlankLine" ruleCheckId="SA1505">
+        <context>An opening curly bracket must not be followed by a blank line.</context>
+        <line>55</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to applicationPath must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>59</line>
+        <index>1747</index>
+        <endIndex>1761</endIndex>
+        <startLine>59</startLine>
+        <startColumn>13</startColumn>
+        <endLine>59</endLine>
+        <endColumn>27</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementParameterDocumentationMustHaveText" ruleCheckId="SA1614">
+        <context>The documentation text within the param tag for the '&lt;param name="userName" /&gt;' parameter must not be empty.</context>
+        <line>68</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementReturnValueDocumentationMustHaveText" ruleCheckId="SA1616">
+        <context>The returns section in the documentation header must not be empty.</context>
+        <line>68</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementParameterDocumentationMustMatchElementParameters" ruleCheckId="SA1612">
+        <context>The param tags in the documentation header must match the element's parameter list.</context>
+        <line>94</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>109</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementParameterDocumentationMustMatchElementParameters" ruleCheckId="SA1612">
+        <context>The param tags in the documentation header must match the element's parameter list.</context>
+        <line>126</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>180</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustBeginWithLowerCaseLetter" ruleCheckId="SA1306">
+        <context>Variable names and private field names must start with a lower-case letter: PersonnelLIst.</context>
+        <line>184</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetUserInfo must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>202</line>
+        <index>8161</index>
+        <endIndex>8171</endIndex>
+        <startLine>202</startLine>
+        <startColumn>40</startColumn>
+        <endLine>202</endLine>
+        <endColumn>50</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetYesNoValue must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>210</line>
+        <index>8528</index>
+        <endIndex>8540</endIndex>
+        <startLine>210</startLine>
+        <startColumn>40</startColumn>
+        <endLine>210</endLine>
+        <endColumn>52</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetGrade must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>211</line>
+        <index>8601</index>
+        <endIndex>8608</endIndex>
+        <startLine>211</startLine>
+        <startColumn>32</startColumn>
+        <endLine>211</endLine>
+        <endColumn>39</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetYesNoValue must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>213</line>
+        <index>8714</index>
+        <endIndex>8726</endIndex>
+        <startLine>213</startLine>
+        <startColumn>35</startColumn>
+        <endLine>213</endLine>
+        <endColumn>47</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetAdminRights must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>214</line>
+        <index>8781</index>
+        <endIndex>8794</endIndex>
+        <startLine>214</startLine>
+        <startColumn>38</startColumn>
+        <endLine>214</endLine>
+        <endColumn>51</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="KeywordsMustBeSpacedCorrectly" ruleCheckId="SA1000">
+        <context>The spacing around the keyword 'if' is invalid.</context>
+        <line>203</line>
+        <index>8232</index>
+        <endIndex>8233</endIndex>
+        <startLine>203</startLine>
+        <startColumn>25</startColumn>
+        <endLine>203</endLine>
+        <endColumn>26</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SymbolsMustBeSpacedCorrectly" ruleCheckId="SA1003">
+        <context>The spacing around the symbol '!=' is invalid.</context>
+        <line>203</line>
+        <index>8243</index>
+        <endIndex>8244</endIndex>
+        <startLine>203</startLine>
+        <startColumn>36</startColumn>
+        <endLine>203</endLine>
+        <endColumn>37</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SymbolsMustBeSpacedCorrectly" ruleCheckId="SA1003">
+        <context>The spacing around the symbol '!=' is invalid.</context>
+        <line>203</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementParameterDocumentationMustHaveText" ruleCheckId="SA1614">
+        <context>The documentation text within the param tag for the '&lt;param name="utype" /&gt;' parameter must not be empty.</context>
+        <line>231</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementReturnValueDocumentationMustHaveText" ruleCheckId="SA1616">
+        <context>The returns section in the documentation header must not be empty.</context>
+        <line>231</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>305</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>424</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>520</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>648</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>675</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>710</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>756</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>801</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>845</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>864</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>931</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>975</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>992</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>1046</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>1111</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>1125</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>1147</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="UseStringEmptyForEmptyStrings" ruleCheckId="SA1122">
+        <context>Use string.Empty rather than "".</context>
+        <line>247</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementParameterDocumentationMustHaveText" ruleCheckId="SA1614">
+        <context>The documentation text within the param tag for the '&lt;param name="partner" /&gt;' parameter must not be empty.</context>
+        <line>256</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementReturnValueDocumentationMustHaveText" ruleCheckId="SA1616">
+        <context>The returns section in the documentation header must not be empty.</context>
+        <line>256</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>269</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementParameterDocumentationMustHaveText" ruleCheckId="SA1614">
+        <context>The documentation text within the param tag for the '&lt;param name="isInt" /&gt;' parameter must not be empty.</context>
+        <line>281</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementReturnValueDocumentationMustHaveText" ruleCheckId="SA1616">
+        <context>The returns section in the documentation header must not be empty.</context>
+        <line>281</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>287</line>
+        <index>10562</index>
+        <endIndex>10568</endIndex>
+        <startLine>287</startLine>
+        <startColumn>28</startColumn>
+        <endLine>287</endLine>
+        <endColumn>34</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>291</line>
+        <index>10659</index>
+        <endIndex>10664</endIndex>
+        <startLine>291</startLine>
+        <startColumn>28</startColumn>
+        <endLine>291</endLine>
+        <endColumn>33</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="UseStringEmptyForEmptyStrings" ruleCheckId="SA1122">
+        <context>Use string.Empty rather than "".</context>
+        <line>296</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="QueryClauseMustFollowPreviousClause" ruleCheckId="SA1102">
+        <context>The query clause must begin on the line after the previous clause, with no blank lines in between.</context>
+        <line>310</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetProxy must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>396</line>
+        <index>14424</index>
+        <endIndex>14431</endIndex>
+        <startLine>396</startLine>
+        <startColumn>29</startColumn>
+        <endLine>396</endLine>
+        <endColumn>36</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="UseStringEmptyForEmptyStrings" ruleCheckId="SA1122">
+        <context>Use string.Empty rather than "".</context>
+        <line>406</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>468</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>542</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="OpeningCurlyBracketsMustNotBeFollowedByBlankLine" ruleCheckId="SA1505">
+        <context>An opening curly bracket must not be followed by a blank line.</context>
+        <line>545</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CodeMustNotContainMultipleBlankLinesInARow" ruleCheckId="SA1507">
+        <context>The code must not contain multiple blank lines in a row.</context>
+        <line>547</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>582</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>589</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CodeMustNotContainMultipleBlankLinesInARow" ruleCheckId="SA1507">
+        <context>The code must not contain multiple blank lines in a row.</context>
+        <line>614</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CodeMustNotContainMultipleBlankLinesInARow" ruleCheckId="SA1507">
+        <context>The code must not contain multiple blank lines in a row.</context>
+        <line>615</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="QueryClauseMustFollowPreviousClause" ruleCheckId="SA1102">
+        <context>The query clause must begin on the line after the previous clause, with no blank lines in between.</context>
+        <line>566</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetProxy must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>559</line>
+        <index>20585</index>
+        <endIndex>20592</endIndex>
+        <startLine>559</startLine>
+        <startColumn>36</startColumn>
+        <endLine>559</endLine>
+        <endColumn>43</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>657</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementParameterDocumentationMustMatchElementParameters" ruleCheckId="SA1612">
+        <context>The param tags in the documentation header must match the element's parameter list.</context>
+        <line>675</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetProxy must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>679</line>
+        <index>25248</index>
+        <endIndex>25255</endIndex>
+        <startLine>679</startLine>
+        <startColumn>29</startColumn>
+        <endLine>679</endLine>
+        <endColumn>36</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to SendProxyRemovedNotificationToProxy must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>686</line>
+        <index>25516</index>
+        <endIndex>25550</endIndex>
+        <startLine>686</startLine>
+        <startColumn>17</startColumn>
+        <endLine>686</endLine>
+        <endColumn>51</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to SendProxyAssignedNotificationToPartner must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>698</line>
+        <index>26074</index>
+        <endIndex>26111</endIndex>
+        <startLine>698</startLine>
+        <startColumn>13</startColumn>
+        <endLine>698</endLine>
+        <endColumn>50</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to SendProxyAssignedNotificationToProxy must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>700</line>
+        <index>26205</index>
+        <endIndex>26240</endIndex>
+        <startLine>700</startLine>
+        <startColumn>13</startColumn>
+        <endLine>700</endLine>
+        <endColumn>48</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SemicolonsMustBeSpacedCorrectly" ruleCheckId="SA1002">
+        <context>Invalid spacing around the semicolon.</context>
+        <line>686</line>
+        <index>25569</index>
+        <endIndex>25569</endIndex>
+        <startLine>686</startLine>
+        <startColumn>70</startColumn>
+        <endLine>686</endLine>
+        <endColumn>70</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>686</line>
+        <index>25570</index>
+        <endIndex>25616</endIndex>
+        <startLine>686</startLine>
+        <startColumn>71</startColumn>
+        <endLine>686</endLine>
+        <endColumn>117</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="SingleLineCommentMustBePrecededByBlankLine" ruleCheckId="SA1515">
+        <context>A single-line comment must be preceded by a blank line or another single-line comment, or must be the first item in its scope. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>724</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
+        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
+        <line>740</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>748</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>723</line>
+        <index>27336</index>
+        <endIndex>27385</endIndex>
+        <startLine>723</startLine>
+        <startColumn>56</startColumn>
+        <endLine>723</endLine>
+        <endColumn>105</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="ConditionalExpressionsMustDeclarePrecedence" ruleCheckId="SA1408">
+        <context>Insert parenthesis within the conditional AND and OR expressions to declare the operator precedence.</context>
+        <line>729</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustBeginWithLowerCaseLetter" ruleCheckId="SA1306">
+        <context>Variable names and private field names must start with a lower-case letter: MailBody.</context>
+        <line>713</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustBeginWithLowerCaseLetter" ruleCheckId="SA1306">
+        <context>Variable names and private field names must start with a lower-case letter: AdminEmailDetails.</context>
+        <line>727</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustBeginWithLowerCaseLetter" ruleCheckId="SA1306">
+        <context>Variable names and private field names must start with a lower-case letter: CCEmailList.</context>
+        <line>738</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>717</line>
+        <index>26947</index>
+        <endIndex>26983</endIndex>
+        <startLine>717</startLine>
+        <startColumn>13</startColumn>
+        <endLine>717</endLine>
+        <endColumn>49</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>724</line>
+        <index>27402</index>
+        <endIndex>27425</endIndex>
+        <startLine>724</startLine>
+        <startColumn>13</startColumn>
+        <endLine>724</endLine>
+        <endColumn>36</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>737</line>
+        <index>28148</index>
+        <endIndex>28166</endIndex>
+        <startLine>737</startLine>
+        <startColumn>17</startColumn>
+        <endLine>737</endLine>
+        <endColumn>35</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CodeMustNotContainMultipleBlankLinesInARow" ruleCheckId="SA1507">
+        <context>The code must not contain multiple blank lines in a row.</context>
+        <line>766</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="SingleLineCommentMustBePrecededByBlankLine" ruleCheckId="SA1515">
+        <context>A single-line comment must be preceded by a blank line or another single-line comment, or must be the first item in its scope. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>769</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
+        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
+        <line>785</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>793</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>768</line>
+        <index>29514</index>
+        <endIndex>29563</endIndex>
+        <startLine>768</startLine>
+        <startColumn>56</startColumn>
+        <endLine>768</endLine>
+        <endColumn>105</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="ConditionalExpressionsMustDeclarePrecedence" ruleCheckId="SA1408">
+        <context>Insert parenthesis within the conditional AND and OR expressions to declare the operator precedence.</context>
+        <line>774</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustBeginWithLowerCaseLetter" ruleCheckId="SA1306">
+        <context>Variable names and private field names must start with a lower-case letter: MailBody.</context>
+        <line>759</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustBeginWithLowerCaseLetter" ruleCheckId="SA1306">
+        <context>Variable names and private field names must start with a lower-case letter: AdminEmailDetails.</context>
+        <line>772</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustBeginWithLowerCaseLetter" ruleCheckId="SA1306">
+        <context>Variable names and private field names must start with a lower-case letter: CCEmailList.</context>
+        <line>783</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>763</line>
+        <index>29252</index>
+        <endIndex>29288</endIndex>
+        <startLine>763</startLine>
+        <startColumn>13</startColumn>
+        <endLine>763</endLine>
+        <endColumn>49</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>769</line>
+        <index>29580</index>
+        <endIndex>29603</endIndex>
+        <startLine>769</startLine>
+        <startColumn>13</startColumn>
+        <endLine>769</endLine>
+        <endColumn>36</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>782</line>
+        <index>30326</index>
+        <endIndex>30344</endIndex>
+        <startLine>782</startLine>
+        <startColumn>17</startColumn>
+        <endLine>782</endLine>
+        <endColumn>35</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CodeMustNotContainMultipleBlankLinesInARow" ruleCheckId="SA1507">
+        <context>The code must not contain multiple blank lines in a row.</context>
+        <line>817</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
+        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
+        <line>831</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>839</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>814</line>
+        <index>31762</index>
+        <endIndex>31811</endIndex>
+        <startLine>814</startLine>
+        <startColumn>62</startColumn>
+        <endLine>814</endLine>
+        <endColumn>111</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>815</line>
+        <index>31871</index>
+        <endIndex>31926</endIndex>
+        <startLine>815</startLine>
+        <startColumn>56</startColumn>
+        <endLine>815</endLine>
+        <endColumn>111</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="ConditionalExpressionsMustDeclarePrecedence" ruleCheckId="SA1408">
+        <context>Insert parenthesis within the conditional AND and OR expressions to declare the operator precedence.</context>
+        <line>820</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustBeginWithLowerCaseLetter" ruleCheckId="SA1306">
+        <context>Variable names and private field names must start with a lower-case letter: MailBody.</context>
+        <line>804</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustBeginWithLowerCaseLetter" ruleCheckId="SA1306">
+        <context>Variable names and private field names must start with a lower-case letter: AdminEmailDetails.</context>
+        <line>818</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustBeginWithLowerCaseLetter" ruleCheckId="SA1306">
+        <context>Variable names and private field names must start with a lower-case letter: CCEmailList.</context>
+        <line>829</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetProxy must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>847</line>
+        <index>33244</index>
+        <endIndex>33251</endIndex>
+        <startLine>847</startLine>
+        <startColumn>29</startColumn>
+        <endLine>847</endLine>
+        <endColumn>36</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to SendProxyRemovedNotificationToProxy must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>853</line>
+        <index>33510</index>
+        <endIndex>33544</endIndex>
+        <startLine>853</startLine>
+        <startColumn>17</startColumn>
+        <endLine>853</endLine>
+        <endColumn>51</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SemicolonsMustBeSpacedCorrectly" ruleCheckId="SA1002">
+        <context>Invalid spacing around the semicolon.</context>
+        <line>853</line>
+        <index>33563</index>
+        <endIndex>33563</endIndex>
+        <startLine>853</startLine>
+        <startColumn>70</startColumn>
+        <endLine>853</endLine>
+        <endColumn>70</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>853</line>
+        <index>33564</index>
+        <endIndex>33610</endIndex>
+        <startLine>853</startLine>
+        <startColumn>71</startColumn>
+        <endLine>853</endLine>
+        <endColumn>117</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementReturnValueDocumentationMustHaveText" ruleCheckId="SA1616">
+        <context>The returns section in the documentation header must not be empty.</context>
+        <line>864</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>913</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
+        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
+        <line>913</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotBeginWithUnderscore" ruleCheckId="SA1309">
+        <context>Field names must not start with an underscore.</context>
+        <line>867</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustBeginWithLowerCaseLetter" ruleCheckId="SA1306">
+        <context>Variable names and private field names must start with a lower-case letter: ProxyList.</context>
+        <line>870</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetUserID must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>866</line>
+        <index>33962</index>
+        <endIndex>33970</endIndex>
+        <startLine>866</startLine>
+        <startColumn>27</startColumn>
+        <endLine>866</endLine>
+        <endColumn>35</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to _kernel must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>867</line>
+        <index>34017</index>
+        <endIndex>34023</endIndex>
+        <startLine>867</startLine>
+        <startColumn>34</startColumn>
+        <endLine>867</endLine>
+        <endColumn>40</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="UseStringEmptyForEmptyStrings" ruleCheckId="SA1122">
+        <context>Use string.Empty rather than "".</context>
+        <line>905</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="KeywordsMustBeSpacedCorrectly" ruleCheckId="SA1000">
+        <context>The spacing around the keyword 'if' is invalid.</context>
+        <line>868</line>
+        <index>34063</index>
+        <endIndex>34064</endIndex>
+        <startLine>868</startLine>
+        <startColumn>13</startColumn>
+        <endLine>868</endLine>
+        <endColumn>14</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SymbolsMustBeSpacedCorrectly" ruleCheckId="SA1003">
+        <context>The spacing around the symbol '!=' is invalid.</context>
+        <line>868</line>
+        <index>34072</index>
+        <endIndex>34073</endIndex>
+        <startLine>868</startLine>
+        <startColumn>22</startColumn>
+        <endLine>868</endLine>
+        <endColumn>23</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SymbolsMustBeSpacedCorrectly" ruleCheckId="SA1003">
+        <context>The spacing around the symbol '!=' is invalid.</context>
+        <line>868</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CodeMustNotContainMultipleBlankLinesInARow" ruleCheckId="SA1507">
+        <context>The code must not contain multiple blank lines in a row.</context>
+        <line>947</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
+        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
+        <line>961</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="ConditionalExpressionsMustDeclarePrecedence" ruleCheckId="SA1408">
+        <context>Insert parenthesis within the conditional AND and OR expressions to declare the operator precedence.</context>
+        <line>950</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustBeginWithLowerCaseLetter" ruleCheckId="SA1306">
+        <context>Variable names and private field names must start with a lower-case letter: MailBody.</context>
+        <line>934</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustBeginWithLowerCaseLetter" ruleCheckId="SA1306">
+        <context>Variable names and private field names must start with a lower-case letter: AdminEmailDetails.</context>
+        <line>948</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustBeginWithLowerCaseLetter" ruleCheckId="SA1306">
+        <context>Variable names and private field names must start with a lower-case letter: CCEmailList.</context>
+        <line>959</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>938</line>
+        <index>37221</index>
+        <endIndex>37257</endIndex>
+        <startLine>938</startLine>
+        <startColumn>13</startColumn>
+        <endLine>938</endLine>
+        <endColumn>49</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>941</line>
+        <index>37375</index>
+        <endIndex>37398</endIndex>
+        <startLine>941</startLine>
+        <startColumn>13</startColumn>
+        <endLine>941</endLine>
+        <endColumn>36</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>958</line>
+        <index>38301</index>
+        <endIndex>38319</endIndex>
+        <startLine>958</startLine>
+        <startColumn>17</startColumn>
+        <endLine>958</endLine>
+        <endColumn>35</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>1020</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="CodeMustNotContainMultipleBlankLinesInARow" ruleCheckId="SA1507">
+        <context>The code must not contain multiple blank lines in a row.</context>
+        <line>1028</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>1029</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotBeginWithUnderscore" ruleCheckId="SA1309">
+        <context>Field names must not start with an underscore.</context>
+        <line>994</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to _kernel must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>994</line>
+        <index>39618</index>
+        <endIndex>39624</endIndex>
+        <startLine>994</startLine>
+        <startColumn>33</startColumn>
+        <endLine>994</endLine>
+        <endColumn>39</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetUserInfo must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>997</line>
+        <index>39740</index>
+        <endIndex>39750</endIndex>
+        <startLine>997</startLine>
+        <startColumn>39</startColumn>
+        <endLine>997</endLine>
+        <endColumn>49</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>1061</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>1087</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>1055</line>
+        <index>42425</index>
+        <endIndex>42439</endIndex>
+        <startLine>1055</startLine>
+        <startColumn>17</startColumn>
+        <endLine>1055</endLine>
+        <endColumn>31</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to _kernel must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>1048</line>
+        <index>42122</index>
+        <endIndex>42128</endIndex>
+        <startLine>1048</startLine>
+        <startColumn>33</startColumn>
+        <endLine>1048</endLine>
+        <endColumn>39</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetUserID must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>1050</line>
+        <index>42179</index>
+        <endIndex>42187</endIndex>
+        <startLine>1050</startLine>
+        <startColumn>28</startColumn>
+        <endLine>1050</endLine>
+        <endColumn>36</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetUserInfo must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>1051</line>
+        <index>42258</index>
+        <endIndex>42268</endIndex>
+        <startLine>1051</startLine>
+        <startColumn>39</startColumn>
+        <endLine>1051</endLine>
+        <endColumn>49</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetUserInfo must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>1059</line>
+        <index>42547</index>
+        <endIndex>42557</endIndex>
+        <startLine>1059</startLine>
+        <startColumn>41</startColumn>
+        <endLine>1059</endLine>
+        <endColumn>51</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to _kernel must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>1113</line>
+        <index>44722</index>
+        <endIndex>44728</endIndex>
+        <startLine>1113</startLine>
+        <startColumn>33</startColumn>
+        <endLine>1113</endLine>
+        <endColumn>39</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to _kernel must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>1114</line>
+        <index>44780</index>
+        <endIndex>44786</endIndex>
+        <startLine>1114</startLine>
+        <startColumn>31</startColumn>
+        <endLine>1114</endLine>
+        <endColumn>37</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetUserInfo must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>1116</line>
+        <index>44915</index>
+        <endIndex>44925</endIndex>
+        <startLine>1116</startLine>
+        <startColumn>34</startColumn>
+        <endLine>1116</endLine>
+        <endColumn>44</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="KeywordsMustBeSpacedCorrectly" ruleCheckId="SA1000">
+        <context>The spacing around the keyword 'if' is invalid.</context>
+        <line>1127</line>
+        <index>45255</index>
+        <endIndex>45256</endIndex>
+        <startLine>1127</startLine>
+        <startColumn>13</startColumn>
+        <endLine>1127</endLine>
+        <endColumn>14</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SymbolsMustBeSpacedCorrectly" ruleCheckId="SA1003">
+        <context>The spacing around the symbol '!=' is invalid.</context>
+        <line>1127</line>
+        <index>45263</index>
+        <endIndex>45264</endIndex>
+        <startLine>1127</startLine>
+        <startColumn>21</startColumn>
+        <endLine>1127</endLine>
+        <endColumn>22</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SymbolsMustBeSpacedCorrectly" ruleCheckId="SA1003">
+        <context>The spacing around the symbol '!=' is invalid.</context>
+        <line>1127</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="PollManager.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2016/06/15 00:32:13.871</styleCop>
+      <settingsFile>2016/06/15 00:32:13.847</settingsFile>
+      <sourceFile>2017/02/24 01:24:34.022</sourceFile>
+      <parser>2016/06/15 00:32:13.871</parser>
+      <StyleCop.CSharp.DocumentationRules>2016/06/15 00:32:13.871</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>1133617727</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2016/06/15 00:32:13.871</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2016/06/15 00:32:13.871</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2016/06/15 00:32:13.871</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2016/06/15 00:32:13.871</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>946</line>
+        <index>39141</index>
+        <endIndex>39224</endIndex>
+        <startLine>946</startLine>
+        <startColumn>57</startColumn>
+        <endLine>946</endLine>
+        <endColumn>140</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>946</line>
+        <index>39179</index>
+        <endIndex>39217</endIndex>
+        <startLine>946</startLine>
+        <startColumn>95</startColumn>
+        <endLine>946</endLine>
+        <endColumn>133</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>947</line>
+        <index>39296</index>
+        <endIndex>39395</endIndex>
+        <startLine>947</startLine>
+        <startColumn>65</startColumn>
+        <endLine>947</endLine>
+        <endColumn>164</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>947</line>
+        <index>39342</index>
+        <endIndex>39388</endIndex>
+        <startLine>947</startLine>
+        <startColumn>111</startColumn>
+        <endLine>947</endLine>
+        <endColumn>157</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>1047</line>
+        <index>43960</index>
+        <endIndex>44051</endIndex>
+        <startLine>1047</startLine>
+        <startColumn>61</startColumn>
+        <endLine>1047</endLine>
+        <endColumn>152</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>1047</line>
+        <index>43961</index>
+        <endIndex>44010</endIndex>
+        <startLine>1047</startLine>
+        <startColumn>62</startColumn>
+        <endLine>1047</endLine>
+        <endColumn>111</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>1047</line>
+        <index>44014</index>
+        <endIndex>44044</endIndex>
+        <startLine>1047</startLine>
+        <startColumn>115</startColumn>
+        <endLine>1047</endLine>
+        <endColumn>145</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>1048</line>
+        <index>44121</index>
+        <endIndex>44222</endIndex>
+        <startLine>1048</startLine>
+        <startColumn>63</startColumn>
+        <endLine>1048</endLine>
+        <endColumn>164</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>1048</line>
+        <index>44122</index>
+        <endIndex>44173</endIndex>
+        <startLine>1048</startLine>
+        <startColumn>64</startColumn>
+        <endLine>1048</endLine>
+        <endColumn>115</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>1048</line>
+        <index>44177</index>
+        <endIndex>44215</endIndex>
+        <startLine>1048</startLine>
+        <startColumn>119</startColumn>
+        <endLine>1048</endLine>
+        <endColumn>157</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>1058</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>1158</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>1291</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>1389</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>1410</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>1443</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>1495</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>1513</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>1570</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>1590</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>1603</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>1656</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>1704</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>1710</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>1821</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>1881</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>1970</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>2033</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private methods must be placed after all public methods.</context>
+        <line>2135</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>1137</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
+        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
+        <line>1139</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="OpeningCurlyBracketsMustNotBeFollowedByBlankLine" ruleCheckId="SA1505">
+        <context>An opening curly bracket must not be followed by a blank line.</context>
+        <line>1292</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>1373</line>
+        <index>59418</index>
+        <endIndex>59484</endIndex>
+        <startLine>1373</startLine>
+        <startColumn>52</startColumn>
+        <endLine>1373</endLine>
+        <endColumn>118</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>1373</line>
+        <index>59488</index>
+        <endIndex>59557</endIndex>
+        <startLine>1373</startLine>
+        <startColumn>122</startColumn>
+        <endLine>1373</endLine>
+        <endColumn>191</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>1374</line>
+        <index>59626</index>
+        <endIndex>59700</endIndex>
+        <startLine>1374</startLine>
+        <startColumn>60</startColumn>
+        <endLine>1374</endLine>
+        <endColumn>134</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>1374</line>
+        <index>59704</index>
+        <endIndex>59781</endIndex>
+        <startLine>1374</startLine>
+        <startColumn>138</startColumn>
+        <endLine>1374</endLine>
+        <endColumn>215</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="QueryClauseMustFollowPreviousClause" ruleCheckId="SA1102">
+        <context>The query clause must begin on the line after the previous clause, with no blank lines in between.</context>
+        <line>1299</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
+        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
+        <line>1430</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustBeginWithLowerCaseLetter" ruleCheckId="SA1306">
+        <context>Variable names and private field names must start with a lower-case letter: Answers.</context>
+        <line>1423</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
+        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
+        <line>1463</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
+        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
+        <line>1624</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="SplitParametersMustStartOnLineAfterDeclaration" ruleCheckId="SA1116">
+        <context>If the method parameters are on separate lines, the first parameter must begin on the line beneath the name of the method.</context>
+        <line>1606</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetVoteResolutions must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>1626</line>
+        <index>70275</index>
+        <endIndex>70292</endIndex>
+        <startLine>1626</startLine>
+        <startColumn>36</startColumn>
+        <endLine>1626</endLine>
+        <endColumn>53</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="MemberAccessSymbolsMustBeSpacedCorrectly" ruleCheckId="SA1019">
+        <context>Invalid spacing around the member access symbol.</context>
+        <line>1605</line>
+        <index>69432</index>
+        <endIndex>69432</endIndex>
+        <startLine>1605</startLine>
+        <startColumn>67</startColumn>
+        <endLine>1605</endLine>
+        <endColumn>67</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="MemberAccessSymbolsMustBeSpacedCorrectly" ruleCheckId="SA1019">
+        <context>Invalid spacing around the member access symbol.</context>
+        <line>1609</line>
+        <index>69602</index>
+        <endIndex>69602</endIndex>
+        <startLine>1609</startLine>
+        <startColumn>44</startColumn>
+        <endLine>1609</endLine>
+        <endColumn>44</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
+        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
+        <line>1709</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementsMustBeDocumented" ruleCheckId="SA1600">
+        <context>The method must have a documentation header.</context>
+        <line>1710</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ElementsMustBeSeparatedByBlankLine" ruleCheckId="SA1516">
+        <context>Adjacent elements must be separated by a blank line.</context>
+        <line>1710</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>1777</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>1794</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>1810</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>1801</line>
+        <index>78224</index>
+        <endIndex>78309</endIndex>
+        <startLine>1801</startLine>
+        <startColumn>74</startColumn>
+        <endLine>1801</endLine>
+        <endColumn>159</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>1803</line>
+        <index>78475</index>
+        <endIndex>78556</endIndex>
+        <startLine>1803</startLine>
+        <startColumn>76</startColumn>
+        <endLine>1803</endLine>
+        <endColumn>157</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotUseHungarianNotation" ruleCheckId="SA1305">
+        <context>The variable name 'sUserName' begins with a prefix that looks like Hungarian notation. Remove the prefix or add it to the list of allowed prefixes.</context>
+        <line>1712</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotUseHungarianNotation" ruleCheckId="SA1305">
+        <context>The variable name 'iUserTypeID' begins with a prefix that looks like Hungarian notation. Remove the prefix or add it to the list of allowed prefixes.</context>
+        <line>1723</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustBeginWithLowerCaseLetter" ruleCheckId="SA1306">
+        <context>Variable names and private field names must start with a lower-case letter: TotalDidNotVote.</context>
+        <line>1749</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="DoNotPlaceRegionsWithinElements" ruleCheckId="SA1123">
+        <context>The use of regions is not allowed within code elements. Remove the #region and #endregion tags.</context>
+        <line>1764</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="DoNotPlaceRegionsWithinElements" ruleCheckId="SA1123">
+        <context>The use of regions is not allowed within code elements. Remove the #region and #endregion tags.</context>
+        <line>1779</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="SplitParametersMustStartOnLineAfterDeclaration" ruleCheckId="SA1116">
+        <context>If the method parameters are on separate lines, the first parameter must begin on the line beneath the name of the method.</context>
+        <line>1728</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="BlockStatementsMustNotContainEmbeddedRegions" ruleCheckId="SA1109">
+        <context>A region may not be placed within the bracketed statement.</context>
+        <line>1778</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetVoteStatus must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>1804</line>
+        <index>78625</index>
+        <endIndex>78637</endIndex>
+        <startLine>1804</startLine>
+        <startColumn>62</startColumn>
+        <endLine>1804</endLine>
+        <endColumn>74</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetVoteQuestions must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>1805</line>
+        <index>78735</index>
+        <endIndex>78750</endIndex>
+        <startLine>1805</startLine>
+        <startColumn>63</startColumn>
+        <endLine>1805</endLine>
+        <endColumn>78</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>1726</line>
+        <index>74674</index>
+        <endIndex>74681</endIndex>
+        <startLine>1726</startLine>
+        <startColumn>74</startColumn>
+        <endLine>1726</endLine>
+        <endColumn>81</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="MemberAccessSymbolsMustBeSpacedCorrectly" ruleCheckId="SA1019">
+        <context>Invalid spacing around the member access symbol.</context>
+        <line>1727</line>
+        <index>74754</index>
+        <endIndex>74754</endIndex>
+        <startLine>1727</startLine>
+        <startColumn>71</startColumn>
+        <endLine>1727</endLine>
+        <endColumn>71</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="OpeningCurlyBracketsMustNotBeFollowedByBlankLine" ruleCheckId="SA1505">
+        <context>An opening curly bracket must not be followed by a blank line.</context>
+        <line>1839</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
+        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
+        <line>1873</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="BlockStatementsMustNotContainEmbeddedComments" ruleCheckId="SA1108">
+        <context>A comment may not be placed within the bracketed statement.</context>
+        <line>1836</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="BlockStatementsMustNotContainEmbeddedComments" ruleCheckId="SA1108">
+        <context>A comment may not be placed within the bracketed statement.</context>
+        <line>1838</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="ClosingParenthesisMustBeSpacedCorrectly" ruleCheckId="SA1009">
+        <context>Invalid spacing around the closing parenthesis.</context>
+        <line>1836</line>
+        <index>80106</index>
+        <endIndex>80123</endIndex>
+        <startLine>1836</startLine>
+        <startColumn>45</startColumn>
+        <endLine>1836</endLine>
+        <endColumn>62</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>1836</line>
+        <index>80106</index>
+        <endIndex>80123</endIndex>
+        <startLine>1836</startLine>
+        <startColumn>45</startColumn>
+        <endLine>1836</endLine>
+        <endColumn>62</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="ClosingParenthesisMustBeSpacedCorrectly" ruleCheckId="SA1009">
+        <context>Invalid spacing around the closing parenthesis.</context>
+        <line>1838</line>
+        <index>80191</index>
+        <endIndex>80218</endIndex>
+        <startLine>1838</startLine>
+        <startColumn>51</startColumn>
+        <endLine>1838</endLine>
+        <endColumn>78</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>1838</line>
+        <index>80191</index>
+        <endIndex>80218</endIndex>
+        <startLine>1838</startLine>
+        <startColumn>51</startColumn>
+        <endLine>1838</endLine>
+        <endColumn>78</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="SingleLineCommentMustBePrecededByBlankLine" ruleCheckId="SA1515">
+        <context>A single-line comment must be preceded by a blank line or another single-line comment, or must be the first item in its scope. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>1888</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="SingleLineCommentsMustNotBeFollowedByBlankLine" ruleCheckId="SA1512">
+        <context>A single-line comment must not be followed by a blank line. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>1888</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
+        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
+        <line>1920</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>1933</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>1953</line>
+        <index>85591</index>
+        <endIndex>85676</endIndex>
+        <startLine>1953</startLine>
+        <startColumn>52</startColumn>
+        <endLine>1953</endLine>
+        <endColumn>137</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="StatementMustNotUseUnnecessaryParenthesis" ruleCheckId="SA1119">
+        <context>The line contains unnecessary parenthesis.</context>
+        <line>1955</line>
+        <index>85798</index>
+        <endIndex>85879</endIndex>
+        <startLine>1955</startLine>
+        <startColumn>54</startColumn>
+        <endLine>1955</endLine>
+        <endColumn>135</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustBeginWithLowerCaseLetter" ruleCheckId="SA1306">
+        <context>Variable names and private field names must start with a lower-case letter: TotalDidNotVote.</context>
+        <line>1906</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="SplitParametersMustStartOnLineAfterDeclaration" ruleCheckId="SA1116">
+        <context>If the method parameters are on separate lines, the first parameter must begin on the line beneath the name of the method.</context>
+        <line>1884</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetVoteQuestions must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>1957</line>
+        <index>85927</index>
+        <endIndex>85942</endIndex>
+        <startLine>1957</startLine>
+        <startColumn>39</startColumn>
+        <endLine>1957</endLine>
+        <endColumn>54</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="MemberAccessSymbolsMustBeSpacedCorrectly" ruleCheckId="SA1019">
+        <context>Invalid spacing around the member access symbol.</context>
+        <line>1883</line>
+        <index>82632</index>
+        <endIndex>82632</endIndex>
+        <startLine>1883</startLine>
+        <startColumn>65</startColumn>
+        <endLine>1883</endLine>
+        <endColumn>65</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>1888</line>
+        <index>82905</index>
+        <endIndex>82967</endIndex>
+        <startLine>1888</startLine>
+        <startColumn>13</startColumn>
+        <endLine>1888</endLine>
+        <endColumn>75</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementParameterDocumentationMustMatchElementParameters" ruleCheckId="SA1612">
+        <context>The param tags in the documentation header must match the element's parameter list.</context>
+        <line>1970</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="OpeningCurlyBracketsMustNotBeFollowedByBlankLine" ruleCheckId="SA1505">
+        <context>An opening curly bracket must not be followed by a blank line.</context>
+        <line>2003</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
+        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
+        <line>2013</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="CodeMustNotContainEmptyStatements" ruleCheckId="SA1106">
+        <context>The code contains an extra semicolon.</context>
+        <line>1972</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetActivePartnerVotes must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>2014</line>
+        <index>88149</index>
+        <endIndex>88169</endIndex>
+        <startLine>2014</startLine>
+        <startColumn>55</startColumn>
+        <endLine>2014</endLine>
+        <endColumn>75</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SemicolonsMustBeSpacedCorrectly" ruleCheckId="SA1002">
+        <context>Invalid spacing around the semicolon.</context>
+        <line>1972</line>
+        <index>86516</index>
+        <endIndex>86516</endIndex>
+        <startLine>1972</startLine>
+        <startColumn>96</startColumn>
+        <endLine>1972</endLine>
+        <endColumn>96</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementParameterDocumentationMustMatchElementParameters" ruleCheckId="SA1612">
+        <context>The param tags in the documentation header must match the element's parameter list.</context>
+        <line>2033</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
+        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
+        <line>2094</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="OpeningCurlyBracketsMustNotBeFollowedByBlankLine" ruleCheckId="SA1505">
+        <context>An opening curly bracket must not be followed by a blank line.</context>
+        <line>2106</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="FieldNamesMustNotBeginWithUnderscore" ruleCheckId="SA1309">
+        <context>Field names must not start with an underscore.</context>
+        <line>2035</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetPartnerVote must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>2082</line>
+        <index>90810</index>
+        <endIndex>90823</endIndex>
+        <startLine>2082</startLine>
+        <startColumn>42</startColumn>
+        <endLine>2082</endLine>
+        <endColumn>55</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetVoteDocuments must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>2098</line>
+        <index>91482</index>
+        <endIndex>91497</endIndex>
+        <startLine>2098</startLine>
+        <startColumn>51</startColumn>
+        <endLine>2098</endLine>
+        <endColumn>66</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to GetOldVoteDetails must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>2104</line>
+        <index>91854</index>
+        <endIndex>91870</endIndex>
+        <startLine>2104</startLine>
+        <startColumn>40</startColumn>
+        <endLine>2104</endLine>
+        <endColumn>56</endColumn>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <project key="-87967526">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+</stylecopresultscache>

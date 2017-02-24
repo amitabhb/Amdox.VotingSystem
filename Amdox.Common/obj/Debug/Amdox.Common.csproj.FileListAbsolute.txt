@@ -1,0 +1,5 @@
+C:\Projects\CRS_Back\VotingSystem\Development\CRS.VotingSystem\CRS.Common\bin\Debug\Amdox.Common.dll
+C:\Projects\CRS_Back\VotingSystem\Development\CRS.VotingSystem\CRS.Common\bin\Debug\Amdox.Common.pdb
+C:\Projects\CRS_Back\VotingSystem\Development\CRS.VotingSystem\CRS.Common\obj\Debug\Amdox.Common.dll
+C:\Projects\CRS_Back\VotingSystem\Development\CRS.VotingSystem\CRS.Common\obj\Debug\Amdox.Common.pdb
+C:\Projects\CRS_Back\VotingSystem\Development\CRS.VotingSystem\CRS.Common\obj\Debug\Amdox.Common.csprojResolveAssemblyReference.cache

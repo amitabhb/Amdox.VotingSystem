@@ -1,0 +1,14 @@
+C:\Projects\CRS_Back\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\bin\Release\Amdox.IBusinessManager.dll
+C:\Projects\CRS_Back\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\bin\Release\Amdox.IBusinessManager.pdb
+C:\Projects\CRS_Back\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\bin\Release\Amdox.DataModel.dll
+C:\Projects\CRS_Back\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\bin\Release\Amdox.IDataModel.dll
+C:\Projects\CRS_Back\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\bin\Release\Ninject.dll
+C:\Projects\CRS_Back\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\bin\Release\EntityFramework.dll
+C:\Projects\CRS_Back\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\bin\Release\DotNet.Highcharts.dll
+C:\Projects\CRS_Back\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\bin\Release\Amdox.DataModel.pdb
+C:\Projects\CRS_Back\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\bin\Release\Amdox.IDataModel.pdb
+C:\Projects\CRS_Back\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\bin\Release\Ninject.xml
+C:\Projects\CRS_Back\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\bin\Release\EntityFramework.xml
+C:\Projects\CRS_Back\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\obj\Release\Amdox.IBusinessManager.csprojResolveAssemblyReference.cache
+C:\Projects\CRS_Back\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\obj\Release\Amdox.IBusinessManager.dll
+C:\Projects\CRS_Back\VotingSystem\Development\CRS.VotingSystem\CRS.IBusinessManager\obj\Release\Amdox.IBusinessManager.pdb

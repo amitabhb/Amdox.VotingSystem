@@ -1,0 +1,392 @@
+/*!
+ * Start Bootstrap - SB Admin (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+/* Global Styles */
+
+body {
+    margin-top: 100px;
+    background-color: #fff;
+	font-family: 'Open Sans', serif;
+}
+.navbar-inverse
+{
+	background-color: #333e48;
+	border: #f7f7f7;
+}
+
+.navbar-inverse .navbar-brand:focus, .navbar-inverse .navbar-brand:hover {
+    color: #fff;
+    background-color: #24272E;
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: #24272E;
+	background-color: #24272E;
+}
+
+/*logo CSS*/
+
+.logo1
+{
+	background-color: #24272E;
+	width: 225px;
+}
+
+/*End Logo CSS*/
+
+/*Profile CSS*/
+
+.profile
+{
+margin-top:30px;
+border-radius:27px;
+}
+
+.dropdown-menu
+{
+	left:0px;
+	min-width:225px;
+	position:relative;
+	background-color:rgba(0,0,0,0.09);
+}
+.dropdown-menu>li>a
+{
+	color: #9d9d9d;
+}
+.header-center
+{
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+.partnervote-description
+{
+	background-color:#00AEC7; 
+	color:#fff;
+	    height: 20px;
+}
+.partnervote-description p{
+	text-align:left; 
+	font-size:15px;
+	margin-left:10px;
+}
+.partnervote-description-border-tr
+{
+	border:1px solid #00AEC7;
+	min-height:40px;
+	padding:10px;
+
+
+}
+.partnervote-description2
+{
+	background-color:#00AEC7; 
+	color:#fff;
+	vertical-align::middle;
+}
+.partnervote-description2 p{
+	text-align:left; 
+	font-size:15px;
+	margin-left:10px;
+}
+
+.partnervote-description-download-img
+{
+	width:20px;
+	height:20px;
+}
+.partnervote-description-download-pdf
+{
+	font-weight:bold;
+}
+.partnervote-description2-margin
+{
+	margin-top:20px;
+	    padding-left: 0px;
+    padding-right: 0px;
+}
+.partnervote-description2-radio
+{
+	margin-top:-8px;
+}
+.table-head-td td:nth-child(1){
+	width:8%;
+	
+}
+.table-head-td td:nth-child(2){
+	width:65%;
+	
+}
+.table-head-td td:nth-child(2){
+	
+	
+}
+.voteoption  td:nth-child(1){
+	width:50%;
+}
+.btn-primary1
+{
+	background-color:#003e52;
+	color:#fff;
+}
+.list-inline .btn:hover  {
+    color: #BFBFBF;
+    text-decoration: none;
+}
+.list-inline .btn:focus{
+	color: #fff;
+    text-decoration: none;
+}
+.table-head-td1 td:nth-child(1){
+	vertical-align: middle;
+	
+}
+.action
+{
+	text-align:center;
+}
+.partnervote-description2-tablelist th p
+{
+	font-size:12.5px;
+	margin:0;
+	vertical-align:middle;
+}
+.thankyoustyle
+{
+	
+	font-size:25px;
+	margin-top:100px;
+	text-align:center;
+	
+}
+.thankyoustyle-btn  .btn:hover  {
+    color: #BFBFBF;
+    text-decoration: none;
+}
+.thankyoustyle-btn .btn:focus{
+	color: #fff;
+    text-decoration: none;
+}
+.home-logo{
+width:100%;
+margin-top:50px;}
+
+
+.text-align-home
+{
+	text-align::center;
+}
+
+
+/*End Profile CSS*/
+
+@media(max-width:768px) {
+.logo1
+{
+	
+	width: 800px;
+}
+
+}
+
+@media(min-width:768px) {
+    body {
+        margin-top: 50px;
+    }
+	
+}
+
+#wrapper {
+    padding-left: 0;
+}
+
+#page-wrapper {
+    width: 100%;
+    padding: 0;
+    background-color: #fff;
+}
+
+.huge {
+    font-size: 50px;
+    line-height: normal;
+}
+
+@media(min-width:768px) {
+    #wrapper {
+        padding-left: 225px;
+    }
+
+    #page-wrapper {
+        padding: 10px;
+    }
+}
+
+/* Top Navigation */
+
+.top-nav {
+    padding: 0 15px;
+}
+
+.top-nav>li {
+    display: inline-block;
+    float: left;
+}
+
+.top-nav>li>a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    line-height: 20px;
+    color: #999;
+}
+
+.top-nav>li>a:hover,
+.top-nav>li>a:focus,
+.top-nav>.open>a,
+.top-nav>.open>a:hover,
+.top-nav>.open>a:focus {
+    color: #fff;
+    background-color: #000;
+}
+
+.top-nav>.open>.dropdown-menu {
+    float: left;
+    position: absolute;
+    margin-top: 0;
+    border: 1px solid rgba(0,0,0,.15);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    background-color: #fff;
+    -webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175);
+    box-shadow: 0 6px 12px rgba(0,0,0,.175);
+}
+
+.top-nav>.open>.dropdown-menu>li>a {
+    white-space: normal;
+}
+
+ul.message-dropdown {
+    padding: 0;
+    max-height: 250px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+li.message-preview {
+    width: 275px;
+    border-bottom: 1px solid rgba(0,0,0,.15);
+}
+
+li.message-preview>a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+li.message-footer {
+    margin: 5px 0;
+}
+
+ul.alert-dropdown {
+    width: 200px;
+}
+
+/* Side Navigation */
+
+@media(min-width:768px) {
+    .side-nav {
+        position: fixed;
+        top: 50px;
+        left: 225px;
+        width: 225px;
+        margin-left: -225px;
+        border: none;
+        border-radius: 0;
+        overflow-y: auto;
+        background-color: #333F48;
+        bottom: 0;
+        overflow-x: hidden;
+        padding-bottom: 40px;
+    }
+
+    .side-nav>li>a {
+        width: 225px;
+    }
+
+    .side-nav li a:hover,
+    .side-nav li a:focus {
+        outline: none;
+        background-color:rgba(216, 216, 216, 0.08) !important;
+    }
+	
+  .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: rgba(216, 216, 216, 0.08);
+}
+
+.side-nav>li>ul {
+    padding: 0;
+}
+
+.side-nav>li>ul>li>a {
+    display: block;
+    padding: 10px 15px 10px 38px;
+    text-decoration: none;
+    color: #999;
+}
+
+.side-nav>li>ul>li>a:hover {
+    color: #fff;
+}
+
+/* Flot Chart Containers */
+
+.flot-chart {
+    display: block;
+    height: 400px;
+}
+
+.flot-chart-content {
+    width: 100%;
+    height: 100%;
+}
+
+/* Custom Colored Panels */
+
+.huge {
+    font-size: 40px;
+}
+
+.panel-grey {
+    border-color: #efefef;
+}
+
+.panel-grey > .panel-heading {
+    border-color: #fff;
+    color: #fff;
+    background-color: #fff;
+}
+/*add and remove list in usertype*/
+ .dual-list .dual-list1 .list-group {
+            margin-top: 8px;
+        }
+
+        .list-left li, .list-right .list-right1 li {
+            cursor: pointer;
+        }
+
+        .list-arrows {
+            padding-top: 100px;
+        }
+
+            .list-arrows button {
+                margin-bottom: 20px;
+            }
+			 .list-arrows1 {
+            padding-top: 100px;
+        }
+
+            .list-arrows1 button {
+                margin-bottom: 20px;
+            }

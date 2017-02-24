@@ -1,0 +1,115 @@
+/*
+/* 
+ * Specific styles of signin, register, component
+ */
+/*
+ * General styles
+ */
+
+body, html{
+     height: 100%;
+ 	background-repeat: repeat;
+ 	background-color: #fff;
+ 	font-family: 'Raleway', serif;
+	
+}
+
+.main{
+ 	margin-top: 70px;
+}
+
+h1.title { 
+	font-size: 50px;
+	font-family: 'Passion One', cursive; 
+	font-weight: 400; 
+}
+
+hr{
+	width: 10%;
+	color: #fff;
+}
+
+.form-group{
+	margin-bottom: 15px;
+}
+
+label{
+	margin-bottom: 15px;
+}
+
+input,
+input::-webkit-input-placeholder {
+    font-size: 11px;
+    padding-top: 3px;
+}
+
+.main-login{
+ 	background-color: #fff;
+ }
+
+.main-center{
+ 	    /* margin-top: 132px; */
+    margin: 0 auto;
+    max-width: 395px;
+    padding: 40px 40px;
+    margin-top: 140px;
+
+}
+
+.login-button{
+	margin-top: 5px;
+}
+
+.login-register{
+	font-size: 11px;
+	text-align: center;
+}
+
+.input-group-addon {
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+    background-color: rgba(238, 238, 238, 0);
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #003E51;
+}
+
+.btn-block {
+    display: block;
+    width: 41%;
+}
+
+.caption {
+        width:100%;
+         top: 45%;
+    	left: 0;
+    	position: absolute;
+		font-weight:lighter;
+		background: rgba(255,255,255,0.4);
+		}
+.caption1 {
+        width:100%;
+         top: 45%;
+    	left: 0;
+    	position: absolute;
+		font-weight:lighter;
+		}
+@media(max-width:1108px) {
+	.main-center {
+   	margin: 0 auto;
+    max-width: 395px;
+    padding: 40px 40px;
+    margin-top: 21px;
+	}
+	
+	
+	
+}

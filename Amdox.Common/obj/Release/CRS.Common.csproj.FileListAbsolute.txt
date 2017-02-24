@@ -1,0 +1,5 @@
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.Common\bin\Release\CRS.Common.dll
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.Common\bin\Release\CRS.Common.pdb
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.Common\obj\Release\CRS.Common.dll
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.Common\obj\Release\CRS.Common.pdb
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.Common\obj\Release\CRS.Common.csprojResolveAssemblyReference.cache

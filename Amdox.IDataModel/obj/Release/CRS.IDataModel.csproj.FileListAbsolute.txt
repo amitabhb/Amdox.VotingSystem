@@ -1,0 +1,13 @@
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IDataModel\bin\Release\CRS.IDataModel.dll.config
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IDataModel\bin\Release\CRS.IDataModel.dll
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IDataModel\bin\Release\CRS.IDataModel.pdb
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IDataModel\bin\Release\EntityFramework.dll
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IDataModel\bin\Release\EntityFramework.SqlServer.dll
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IDataModel\bin\Release\Ninject.dll
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IDataModel\bin\Release\EntityFramework.xml
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IDataModel\bin\Release\EntityFramework.SqlServer.xml
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IDataModel\bin\Release\Ninject.xml
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IDataModel\obj\Release\CRS.IDataModel.dll
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IDataModel\obj\Release\CRS.IDataModel.pdb
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IDataModel\obj\Release\CRS.IDataModel.csprojResolveAssemblyReference.cache
+C:\Projects\CRS_Voting_Management_System\Projects\VotingSystem\Development\CRS.VotingSystem\CRS.IDataModel\bin\Release\DotNet.Highcharts.dll
